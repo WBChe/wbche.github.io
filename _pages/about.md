@@ -28,7 +28,6 @@ My research interest includes IC, FPGA, Computer Architecture, Hardware Accelera
 - *2023.11*: &nbsp;🎉 A collaborative work from Huawei and our Lab was accepted by EIECT 2023.
 
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EIECT 2023</div><img src='images/huawei_prj.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -44,7 +43,6 @@ My research interest includes IC, FPGA, Computer Architecture, Hardware Accelera
 </div>
 
 # 🔨 Project 
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/lb.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
