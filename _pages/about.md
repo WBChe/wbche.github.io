@@ -63,14 +63,14 @@ My research interest includes IC, FPGA, Computer Architecture, Hardware Accelera
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/synopsys_fifo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><img src='images/synopsys_fifo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Synopsys: FIFO Circuit Design in Accordance with Automotive Electronic  Functional Safety Certification Requirements**
 
 - Participate in the basic theoretical training provided by Synopsys experts to understand the basic knowledge of functional safety and the basic principles of security mechanisms. Theoretical analysis based on conventional FIFO modules, implementation of safety mechanism circuits, detection of various failure points of modules, and automatic correction of errors.
 </div>
-</div>
+
 
 [comment]:- [FPGA-based memory test system design and test algorithm implementation](https://github.com), A, B, C, **CVPR 2020**
 
