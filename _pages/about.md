@@ -76,36 +76,6 @@ My research interest includes IC, FPGA, Computer Architecture, Hardware Accelera
 [comment]:- [FPGA-based memory test system design and test algorithm implementation](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎓 Educations
-<div align="center">
-<table rules="none">
-  
-<tr>
-<td>
-<img src='images/uestc.webp' style="zoom:50%"  alt="pic_name" width="300px" height="300px"/>
-</td>
-<td>
-<p style="color:#FF00FF;"><b>University of Electronic Science and Technology of China</b></p >
-<p><b>Master of Science in Engineering</b> in Electronic Engineering</p>
-<p>Lab: Key Laboratory of IC Test Technology</p>
-<p>Advisor: Xili Han</p>
-<p>2022-2025</p>
-</td>
-</tr>
-
-<tr>
-<td>
-<img src='images/scau.webp' style="zoom:50%"  alt="pic_name" width="300px" height="300px"/>
-</td>
-<td>
-<p style="color:#FF00FF;"><b>South China Agricultural University</b></p>
-<p><b>Bachelor of Engineering</b> in Electronic Information Engineering</p>
-<p>2018-2022</p>
-</td>
-</tr>
-
-</table>    
-</div>
-
 - *2022.09 - 2025.06 (now)*, Mater, Shenzhen Institute for Advanced Study , University of Electronic Science and Technology of China. 
 - *2018.09 - 2022.06*, Undergraduate, College of Electronic Engineering, South China Agricultural University. 
 
