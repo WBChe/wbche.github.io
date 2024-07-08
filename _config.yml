@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenbin Che"
-description              : "Master student @UESTC Key Laboratory of IC Test Technology"
+description              : "Student in Key Laboratory of IC Test Technology"
 repository               : "WBche/wbche.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenbin Che"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "UESTC"
+  bio              : "Master student @UESTC EE"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
