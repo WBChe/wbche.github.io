@@ -28,7 +28,7 @@ My research interest includes IC, FPGA, Computer Architecture, Hardware Accelera
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EIECT 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EIECT 2023</div><img src='images/huawei_prj.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FPGA-based memory test system design and test algorithm implementation](https://ieeexplore.ieee.org/abstract/document/10442939)
