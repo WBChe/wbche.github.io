@@ -38,14 +38,13 @@ My research interest includes IC, FPGA, Computer Architecture, Hardware Accelera
 [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0PbLvCEAAAAJ&citation_for_view=0PbLvCEAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='0PbLvCEAAAAJ:u5HHmVD_uO8C'></span></strong>
 - This article introduces the characteristics of FPGA board-level test systems and outlines some common memory fault models and memory test algorithms.
 - The memory test system is constructed by utilizing the FPGA chip of Xilinx Company, which has the advantages of low cost, high flexibility and configurability compared with the traditional ATE machine test, making the memory test more convenient and faster. 
-</div>
-</div>
+
 
 [comment]:- [FPGA-based memory test system design and test algorithm implementation](https://github.com), A, B, C, **CVPR 2020**
 
 # 📖 Project 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/huawei_prj.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EIECT 2023</div><img src='images/huawei_prj.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Memory testing system (funding from Huawei 2012 Laboratory)
