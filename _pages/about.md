@@ -75,16 +75,45 @@ My research interest includes IC, FPGA, Computer Architecture, Hardware Accelera
 
 [comment]:- [FPGA-based memory test system design and test algorithm implementation](https://github.com), A, B, C, **CVPR 2020**
 
+# 🎓 Educations
+<div align="center">
+<table rules="none">
+  
+<tr>
+<td>
+<img src='images/uestc.webp' style="zoom:50%"  alt="pic_name"/>
+</td>
+<td>
+<p>University of Electronic Science and Technology of China</p>
+<p>Master of Science in Engineering in Electronic Engineering</p>
+<p>Lab: Key Laboratory of IC Test Technology</p>
+<p>Advisor: Xili Han</p>
+<p>2022-2025</p>
+</td>
+</tr>
+
+<tr>
+<td>
+<img src='images/scau.webp' style="zoom:50%"  alt="pic_name"/>
+</td>
+<td>
+<p>South China Agricultural University</p>
+<p>Bachelor of Engineering in Electronic Information Engineering</p>
+<p>2018-2022</p>
+</td>
+</tr>
+
+</table>    
+</div>
+
+- *2022.09 - 2025.06 (now)*, Mater, Shenzhen Institute for Advanced Study , University of Electronic Science and Technology of China. 
+- *2018.09 - 2022.06*, Undergraduate, College of Electronic Engineering, South China Agricultural University. 
+
+# 💻 Internships
+- *2024.01 - 2024.06*, Guangdong Institute of Intelligence Science and Technology (GDIIST), Zhuhai.
 
 # 🏆 Honors and Awards
 - *2022.11*  Frist Class of Graduate Academic Scholarship in UESTC. 
 - *2023.11*  Third Class of Graduate Academic Scholarship in UESTC.
 - *2023.08*  Excellent Award at the 6th China Graduate Innovation Chip Competition National Competition.
 - *2023.06*  Second Prize in the 6th China Graduate Innovation Chip Competition at the UESTC.
-
-# 🎓 Educations
-- *2022.09 - 2025.06 (now)*, Mater, Shenzhen Institute for Advanced Study , University of Electronic Science and Technology of China. 
-- *2018.09 - 2022.06*, Undergraduate, College of Electronic Engineering, South China Agricultural University. 
-
-# 💻 Internships
-- *2024.01 - 2024.06*, Guangdong Institute of Intelligence Science and Technology (GDIIST), Zhuhai.
