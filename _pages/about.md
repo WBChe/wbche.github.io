@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 😄 Bio
 I am a M.S.E student in the Shenzhen Institute for Advanced Study at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Xili Han. I received my B.E degree from college of Electronic Engineering, [South China Agricultural University](https://www.scau.edu.cn/). I used to intern at Guangdong Institute of Intelligence Science and Technology, [GDIIST](https://www.gdiist.cn/).
 
 My research interest includes IC, FPGA, Computer Architecture, Hardware Acceleration and HPC.
@@ -24,7 +25,7 @@ My research interest includes IC, FPGA, Computer Architecture, Hardware Accelera
 <font color="red">I'll be graduating in June 2025, and am actively looking for the Ph.D program and full-time IC/FPGA development engineer positions.</font>
 
 # 🔥 News
-- *2023.11*: &nbsp;🎉 A collaborative work between our lab and Huawei was accepted by EIECT 2023. 
+- *2023.11*: &nbsp;🎉 A collaborative work from Huawei and our Lab was accepted by EIECT 2023.
 
 # 📝 Publications 
 
