@@ -43,13 +43,49 @@ My research interest includes IC, FPGA, Computer Architecture, Hardware Accelera
 
 [comment]:- [FPGA-based memory test system design and test algorithm implementation](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+# 📖 Project 
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/huawei_prj.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Memory testing system (funding from Huawei 2012 Laboratory)
+
+- 2022.09
+- The project of Huawei's 2012 Central Institute of Hardware and Technology's Memory Equipment Testing System focuses on the research of memory chip testing systems, studying the relevant theories of memory testing, and designing a set of memory testing systems and adaptive testing modules.
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/huawei_prj.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Brain-inspired ASICs Design (funding from Huawei 2012 Laboratory)
+
+- 2024.01
+- Working on the design of the NPU module and AXI-stream to LVDS IP module for the second-generation neuromorphic chip, it has been taped to the second version of 28nm (NTO);  Research on ASIC to FPGA process, conducting prototype validation on FPGA arrays and Virtex Ultrascale+;
+- Working on the wafer testing work after Tianqin chip casting, developing testing platform logic, configuring chips, testing IO data flow and basic functions, building a complete testing system, involving technologies such as PCIE, optical fiber communications, data width convertor, and C++test program;
+- Working on the logic design of hardware acceleration boards, uploading and downloading data streams for multi boards interconnection, involving technologies such as PCIE, clock synchronization, and data synchronization processing;
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/huawei_prj.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Synopsys: FIFO Circuit Design in Accordance with Automotive Electronic Functional Safety Certification Requirements
+
+- 2023.04
+- Participate in the basic theoretical training provided by Synopsys experts to understand the basic knowledge of functional safety and the basic principles of security mechanisms. Theoretical analysis based on conventional FIFO modules, implementation of safety mechanism circuits, detection of various failure points of modules, and automatic correction of errors.
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/huawei_prj.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Embedded model deployment based on Huawei Atlas200
+
+- 2024.06
+- The resnet50 model is deployed into the ascend310 chip to realize the embedded ai recognition; it involves the model compression pruning in the IJCAI-18 paper to complete the model size adapted to the ascend310 chip; and development of ascend310's cube operator to accelerate computational models.
+
+# 🏆 Honors and Awards
 - *2022.11*  Frist Class of Graduate Academic Scholarship in UESTC. 
 - *2023.11*  Third Class of Graduate Academic Scholarship in UESTC.
 - *2023.08*  Excellent Award at the 6th China Graduate Innovation Chip Competition National Competition.
 - *2023.06*  Second Prize in the 6th China Graduate Innovation Chip Competition at the UESTC.
 
-# 📖 Educations
+# 🎓 Educations
 - *2022.09 - 2025.06 (now)*, Mater, Shenzhen Institute for Advanced Study , University of Electronic Science and Technology of China. 
 - *2018.09 - 2022.06*, Undergraduate, College of Electronic Engineering, South China Agricultural University. 
 
