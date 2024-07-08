@@ -81,7 +81,7 @@ My research interest includes IC, FPGA, Computer Architecture, Hardware Accelera
   
 <tr>
 <td>
-<img src='images/uestc.webp' style="zoom:50%"  alt="pic_name"/>
+<img src='images/uestc.webp' style="zoom:50%"  alt="pic_name" width="200px" height="200px"/>
 </td>
 <td>
 <p>University of Electronic Science and Technology of China</p>
@@ -94,7 +94,7 @@ My research interest includes IC, FPGA, Computer Architecture, Hardware Accelera
 
 <tr>
 <td>
-<img src='images/scau.webp' style="zoom:50%"  alt="pic_name"/>
+<img src='images/scau.webp' style="zoom:50%"  alt="pic_name" width="200px" height="200px"/>
 </td>
 <td>
 <p>South China Agricultural University</p>
