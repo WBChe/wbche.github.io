@@ -46,7 +46,7 @@ My research interest includes IC, FPGA, Computer Architecture, Hardware Accelera
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EIECT 2023</div><img src='images/huawei_prj.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Brain-inspired ASICs Design
+[Brain-inspired ASICs Design](https://github.com/WBChe/brain-inspired-chip-test-system)
 
 **Wenbin Che**
 
