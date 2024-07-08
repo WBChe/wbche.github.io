@@ -38,7 +38,6 @@ My research interest includes IC, FPGA, Computer Architecture, Hardware Accelera
 [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0PbLvCEAAAAJ&citation_for_view=0PbLvCEAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='0PbLvCEAAAAJ:u5HHmVD_uO8C'></span></strong>
 - This article introduces the characteristics of FPGA board-level test systems and outlines some common memory fault models and memory test algorithms.
 - The memory test system is constructed by utilizing the FPGA chip of Xilinx Company, which has the advantages of low cost, high flexibility and configurability compared with the traditional ATE machine test, making the memory test more convenient and faster. 
-
 <div>
 </div>
 
@@ -49,11 +48,12 @@ My research interest includes IC, FPGA, Computer Architecture, Hardware Accelera
 
 [Brain-inspired ASICs Design](https://github.com/WBChe/brain-inspired-chip-test-system)
 
+**Wenbin Che**
+
 [**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0PbLvCEAAAAJ&citation_for_view=0PbLvCEAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='0PbLvCEAAAAJ:u5HHmVD_uO8C'></span></strong>
 - Working on the design of the NPU module and AXI-stream to LVDS IP module for the second-generation neuromorphic chip, it has been taped to the second version of 28nm (NTO); Research on ASIC to FPGA process, conducting prototype validation on FPGA arrays and Virtex Ultrascale+;
 - Working on the wafer testing work after Tianqin chip casting, bringup chip;
 - Working on the logic design of hardware acceleration boards;
-
 <div>
 </div>
 
