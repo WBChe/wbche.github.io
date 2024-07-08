@@ -81,11 +81,11 @@ My research interest includes IC, FPGA, Computer Architecture, Hardware Accelera
   
 <tr>
 <td>
-<img src='images/uestc.webp' style="zoom:50%"  alt="pic_name" width="200px" height="200px"/>
+<img src='images/uestc.webp' style="zoom:50%"  alt="pic_name" width="300px" height="300px"/>
 </td>
 <td>
-<p>University of Electronic Science and Technology of China</p>
-<p>Master of Science in Engineering in Electronic Engineering</p>
+<p style="color:#FF00FF;"><b>University of Electronic Science and Technology of China</b></p >
+<p><b>Master of Science in Engineering</b> in Electronic Engineering</p>
 <p>Lab: Key Laboratory of IC Test Technology</p>
 <p>Advisor: Xili Han</p>
 <p>2022-2025</p>
@@ -94,11 +94,11 @@ My research interest includes IC, FPGA, Computer Architecture, Hardware Accelera
 
 <tr>
 <td>
-<img src='images/scau.webp' style="zoom:50%"  alt="pic_name" width="200px" height="200px"/>
+<img src='images/scau.webp' style="zoom:50%"  alt="pic_name" width="300px" height="300px"/>
 </td>
 <td>
-<p>South China Agricultural University</p>
-<p>Bachelor of Engineering in Electronic Information Engineering</p>
+<p style="color:#FF00FF;"><b>South China Agricultural University</b></p>
+<p><b>Bachelor of Engineering</b> in Electronic Information Engineering</p>
 <p>2018-2022</p>
 </td>
 </tr>
