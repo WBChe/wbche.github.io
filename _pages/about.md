@@ -43,7 +43,7 @@ My research interest includes IC, FPGA, Computer Architecture, Hardware Accelera
 
 # 🔨 Project 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/lb.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/lb.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Brain-inspired ASICs Design](https://github.com/WBChe/brain-inspired-chip-test-system)
