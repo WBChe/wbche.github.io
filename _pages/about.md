@@ -22,7 +22,7 @@ I am a M.S.E student in the Shenzhen Institute for Advanced Study at [University
 
 My research interest includes IC, FPGA, Computer Architecture, Hardware Acceleration and HPC.
 
-<font color="red">I'll be graduating in June 2025, and am actively looking for the Ph.D program and full-time IC/FPGA development engineer positions.</font>
+<font color="red">I'll be graduating in June 2025, and am actively looking for the Ph.D program.</font>
 
 # 🔥 News
 - *2023.11*: &nbsp;🎉 A collaborative work from Huawei and our Lab was accepted by EIECT 2023.
