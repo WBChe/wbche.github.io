@@ -25,6 +25,7 @@ My research interest includes IC, FPGA, Computer Architecture, Hardware Accelera
 <font color="red">I'll be graduating in June 2025, and am actively looking for the Ph.D program.</font>
 
 # 🔥 News
+- *2024.08*: &nbsp;🎉 I will be an Research Assistant in MICS at HKUST(GZ).
 - *2023.11*: &nbsp;🎉 A collaborative work from Huawei and our Lab was accepted by EIECT 2023.
 
 # 📝 Publications 
@@ -75,7 +76,7 @@ My research interest includes IC, FPGA, Computer Architecture, Hardware Accelera
 [comment]:- [FPGA-based memory test system design and test algorithm implementation](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎓 Educations
-- *2022.09 - 2025.06 (now)*, Mater, Shenzhen Institute for Advanced Study , University of Electronic Science and Technology of China. 
+- *2022.09 - 2025.06 (now)*, Master, Shenzhen Institute for Advanced Study , University of Electronic Science and Technology of China. 
 - *2018.09 - 2022.06*, Undergraduate, College of Electronic Engineering, South China Agricultural University. 
 
 # 💻 Internships
