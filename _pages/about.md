@@ -20,12 +20,12 @@ redirect_from:
 # 😄 Bio
 I am a M.S.E student in the Shenzhen Institute for Advanced Study at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Xili Han. I received my B.E degree from college of Electronic Engineering, [South China Agricultural University](https://www.scau.edu.cn/). I used to intern at Guangdong Institute of Intelligence Science and Technology, [GDIIST](https://www.gdiist.cn/).
 
-My research interest includes IC, FPGA, Computer Architecture, Hardware Acceleration and HPC.
+My research interest includes FPGA, Hardware Verification, Computer Architecture.
 
 <font color="red">I'll be graduating in June 2025, and am actively looking for the Ph.D program.</font>
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉 I will be an Research Assistant in MICS at HKUST(GZ).
+- *2024.08*: &nbsp; I joined MICS at the HKUST(GZ) as a research assistant.
 - *2023.11*: &nbsp;🎉 A collaborative work from Huawei and our Lab was accepted by EIECT 2023.
 
 # 📝 Publications 
@@ -73,13 +73,13 @@ My research interest includes IC, FPGA, Computer Architecture, Hardware Accelera
 </div>
 </div>
 
-[comment]:- [FPGA-based memory test system design and test algorithm implementation](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎓 Educations
 - *2022.09 - 2025.06 (now)*, Master, Shenzhen Institute for Advanced Study , University of Electronic Science and Technology of China. 
 - *2018.09 - 2022.06*, Undergraduate, College of Electronic Engineering, South China Agricultural University. 
 
 # 💻 Internships
+- *2024.08 - now*, The Hong Kong University of Science and Technology (Guangzhou), HKUST(GZ), Guangzhou.
 - *2024.01 - 2024.06*, Guangdong Institute of Intelligence Science and Technology (GDIIST), Zhuhai.
 
 # 🏆 Honors and Awards
