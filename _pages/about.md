@@ -75,11 +75,11 @@ My research interest includes FPGA, Hardware Verification, Computer Architecture
 
 
 # 🎓 Educations
-- *2022.09 - 2025.06 (now)*, Master, Shenzhen Institute for Advanced Study , University of Electronic Science and Technology of China. 
+- **2022.09 - 2025.06 (now)**, Master, Shenzhen Institute for Advanced Study , University of Electronic Science and Technology of China. 
 - *2018.09 - 2022.06*, Undergraduate, College of Electronic Engineering, South China Agricultural University. 
 
 # 💻 Internships
-- *2024.08 - now*, The Hong Kong University of Science and Technology (Guangzhou), HKUST(GZ), Guangzhou.
+- **2024.08 - now**, The Hong Kong University of Science and Technology (Guangzhou), HKUST(GZ), Guangzhou.
 - *2024.01 - 2024.06*, Guangdong Institute of Intelligence Science and Technology (GDIIST), Zhuhai.
 
 # 🏆 Honors and Awards
