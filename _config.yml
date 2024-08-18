@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenbin Che"
   avatar           : "images/notion-avatar-1655627593971.png"
-  bio              : "Master student @UESTC EE"
+  bio              : "master student @UESTC EE"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/WBChe"
   google_plus      :
   keybase          :
   instagram        :
