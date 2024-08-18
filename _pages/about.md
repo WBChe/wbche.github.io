@@ -40,7 +40,7 @@ My research interest includes Hardware Verification, FPGA design, Computer Archi
 
 # 🔥 News
 - <img src='./images/hkust.png' style='width: 3em;'> *2024.08*: &nbsp; I joined MICS at the HKUST(GZ) as a research assistant.
-- <img src='./images/gdiist.svg' style='width: 3em;'> *2023.11*: &nbsp;🎉 A collaborative work from Huawei and our Lab was accepted by EIECT 2023.
+- <img src='./images/gdiist.png' style='width: 3em;'> *2023.11*: &nbsp;🎉 A collaborative work from Huawei and our Lab was accepted by EIECT 2023.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EIECT 2023</div><img src='images/huawei_prj.png' alt="sym" width="100%"></div></div>
