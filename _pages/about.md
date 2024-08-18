@@ -24,6 +24,20 @@ My research interest includes FPGA, Hardware Verification, Computer Architecture
 
 <font color="red">I'll be graduating in June 2025, and am actively looking for the Ph.D program.</font>
 
+# 🎓 Educations
+- **2022.09 - 2025.06 (now)**, Master, Shenzhen Institute for Advanced Study , University of Electronic Science and Technology of China. 
+- *2018.09 - 2022.06*, Undergraduate, College of Electronic Engineering, South China Agricultural University. 
+
+# 💻 Internships
+- **2024.08 - now**, The Hong Kong University of Science and Technology (Guangzhou), HKUST(GZ), Guangzhou.
+- *2024.01 - 2024.06*, Guangdong Institute of Intelligence Science and Technology (GDIIST), Zhuhai.
+
+# 🏆 Honors and Awards
+- *2022.11*  First Class of Graduate Academic Scholarship in UESTC. 
+- *2023.11*  Third Class of Graduate Academic Scholarship in UESTC.
+- *2023.08*  Excellent Award at the 6th China Graduate Innovation Chip Competition National Competition.
+- *2023.06*  Second Prize in the 6th China Graduate Innovation Chip Competition at the UESTC.
+
 # 🔥 News
 - *2024.08*: &nbsp; I joined MICS at the HKUST(GZ) as a research assistant.
 - *2023.11*: &nbsp;🎉 A collaborative work from Huawei and our Lab was accepted by EIECT 2023.
@@ -74,16 +88,4 @@ My research interest includes FPGA, Hardware Verification, Computer Architecture
 </div>
 
 
-# 🎓 Educations
-- **2022.09 - 2025.06 (now)**, Master, Shenzhen Institute for Advanced Study , University of Electronic Science and Technology of China. 
-- *2018.09 - 2022.06*, Undergraduate, College of Electronic Engineering, South China Agricultural University. 
 
-# 💻 Internships
-- **2024.08 - now**, The Hong Kong University of Science and Technology (Guangzhou), HKUST(GZ), Guangzhou.
-- *2024.01 - 2024.06*, Guangdong Institute of Intelligence Science and Technology (GDIIST), Zhuhai.
-
-# 🏆 Honors and Awards
-- *2022.11*  Frist Class of Graduate Academic Scholarship in UESTC. 
-- *2023.11*  Third Class of Graduate Academic Scholarship in UESTC.
-- *2023.08*  Excellent Award at the 6th China Graduate Innovation Chip Competition National Competition.
-- *2023.06*  Second Prize in the 6th China Graduate Innovation Chip Competition at the UESTC.
