@@ -57,24 +57,15 @@ My research interest includes Hardware Verification, FPGA design, Computer Archi
 </div>
 </div>
 
-# 🚩 Project 
+# 🚩 Projects 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/lb.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Brain-inspired ASICs Design**
 
-- Working on the design of the NPU module and AXI-stream to LVDS IP module for the second-generation neuromorphic chip, it has been taped to the second version of 28nm (NTO); Research on ASIC to FPGA process, conducting prototype validation on FPGA arrays and Virtex Ultrascale+;
+- Research on ASIC to FPGA process, conducting prototype validation on FPGA arrays and Virtex Ultrascale+;
 - Working on the wafer testing work after Tianqin chip casting, bringup chip;
 - Working on the logic design of hardware acceleration boards;
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/huawei_prj.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Memory testing system (funding from Huawei 2012 Laboratory)**
-
-- The project of Huawei's 2012 Central Institute of Hardware and Technology's Memory Equipment Testing System focuses on the research of memory chip testing systems, studying the relevant theories of memory testing, and designing a set of memory testing systems and adaptive testing modules.
 </div>
 </div>
 
