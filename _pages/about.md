@@ -29,8 +29,8 @@ My research interest includes Hardware Verification, FPGA design, Computer Archi
 - <img src='./images/scau.webp' style='width: 3em;'> *2018.09 - 2022.06*, Undergraduate, College of Electronic Engineering, South China Agricultural University. 
 
 # 💻 Internships
-- **2024.08 - now**, Research Assistant, The Hong Kong University of Science and Technology (Guangzhou), HKUST(GZ).
-- *2024.01 - 2024.06*, FPGA Engineer Intern, Guangdong Institute of Intelligence Science and Technology (GDIIST).
+- <img src='./images/hkust.png' style='width: 3em;'> **2024.08 - now**, Research Assistant, The Hong Kong University of Science and Technology (Guangzhou), HKUST(GZ).
+- <img src='./images/gdiist.png' style='width: 3em;'> *2024.01 - 2024.06*, FPGA Engineer Intern, Guangdong Institute of Intelligence Science and Technology (GDIIST).
 
 # 🏆 Honors and Awards
 - *2022.11*  First Class of Graduate Academic Scholarship in UESTC. 
@@ -39,8 +39,8 @@ My research interest includes Hardware Verification, FPGA design, Computer Archi
 - *2023.06*  Second Prize in the 6th China Graduate Innovation Chip Competition at the UESTC.
 
 # 🔥 News
-- <img src='./images/hkust.png' style='width: 3em;'> *2024.08*: &nbsp; I joined MICS at the HKUST(GZ) as a research assistant.
-- <img src='./images/gdiist.png' style='width: 3em;'> *2023.11*: &nbsp;🎉 A collaborative work from Huawei and our Lab was accepted by EIECT 2023.
+- *2024.08*: &nbsp; I joined MICS at the HKUST(GZ) as a research assistant.
+- *2023.11*: &nbsp;🎉 A collaborative work from Huawei and our Lab was accepted by EIECT 2023.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EIECT 2023</div><img src='images/huawei_prj.png' alt="sym" width="100%"></div></div>
