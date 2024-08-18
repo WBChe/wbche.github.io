@@ -25,8 +25,8 @@ My research interest includes Hardware Verification, FPGA design, Computer Archi
 <font color="red">I'll be graduating in June 2025, and am actively looking for the Ph.D program.</font>
 
 # 🎓 Educations
-- <img src='./images/uestc.webp' style='width: 2em;'> **2022.09 - 2025.06 (now)**, Master, Shenzhen Institute for Advanced Study, University of Electronic Science and Technology of China. 
-- *2018.09 - 2022.06*, Undergraduate, College of Electronic Engineering, South China Agricultural University. 
+- <img src='./images/uestc.webp' style='width: 4em;'> **2022.09 - 2025.06 (now)**, Master, Shenzhen Institute for Advanced Study, University of Electronic Science and Technology of China. 
+- <img src='./images/scau.webp' style='width: 4em;'> *2018.09 - 2022.06*, Undergraduate, College of Electronic Engineering, South China Agricultural University. 
 
 # 💻 Internships
 - **2024.08 - now**, Research Assistant, The Hong Kong University of Science and Technology (Guangzhou), HKUST(GZ).
