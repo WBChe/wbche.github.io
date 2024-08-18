@@ -25,8 +25,8 @@ My research interest includes Hardware Verification, FPGA design, Computer Archi
 <font color="red">I'll be graduating in June 2025, and am actively looking for the Ph.D program.</font>
 
 # 🎓 Educations
-- <img src='./images/uestc.webp' style='width: 4em;'> **2022.09 - 2025.06 (now)**, Master, Shenzhen Institute for Advanced Study, University of Electronic Science and Technology of China. 
-- <img src='./images/scau.webp' style='width: 4em;'> *2018.09 - 2022.06*, Undergraduate, College of Electronic Engineering, South China Agricultural University. 
+- <img src='./images/uestc.webp' style='width: 3em;'> **2022.09 - now**, Master, Shenzhen Institute for Advanced Study, University of Electronic Science and Technology of China. 
+- <img src='./images/scau.webp' style='width: 3em;'> *2018.09 - 2022.06*, Undergraduate, College of Electronic Engineering, South China Agricultural University. 
 
 # 💻 Internships
 - **2024.08 - now**, Research Assistant, The Hong Kong University of Science and Technology (Guangzhou), HKUST(GZ).
@@ -39,8 +39,8 @@ My research interest includes Hardware Verification, FPGA design, Computer Archi
 - *2023.06*  Second Prize in the 6th China Graduate Innovation Chip Competition at the UESTC.
 
 # 🔥 News
-- *2024.08*: &nbsp; I joined MICS at the HKUST(GZ) as a research assistant.
-- *2023.11*: &nbsp;🎉 A collaborative work from Huawei and our Lab was accepted by EIECT 2023.
+- <img src='./images/hkust.png' style='width: 3em;'> *2024.08*: &nbsp; I joined MICS at the HKUST(GZ) as a research assistant.
+- <img src='./images/gdiist.svg' style='width: 3em;'> *2023.11*: &nbsp;🎉 A collaborative work from Huawei and our Lab was accepted by EIECT 2023.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EIECT 2023</div><img src='images/huawei_prj.png' alt="sym" width="100%"></div></div>
