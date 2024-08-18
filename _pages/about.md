@@ -20,17 +20,17 @@ redirect_from:
 # 😄 Bio
 I am a M.S.E student in the Shenzhen Institute for Advanced Study at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Xili Han. I received my B.E degree from college of Electronic Engineering, [South China Agricultural University](https://www.scau.edu.cn/). I used to intern at Guangdong Institute of Intelligence Science and Technology, [GDIIST](https://www.gdiist.cn/).
 
-My research interest includes FPGA, Hardware Verification, Computer Architecture.
+My research interest includes Hardware Verification, FPGA design, Computer Architecture.
 
 <font color="red">I'll be graduating in June 2025, and am actively looking for the Ph.D program.</font>
 
 # 🎓 Educations
-- **2022.09 - 2025.06 (now)**, Master, Shenzhen Institute for Advanced Study , University of Electronic Science and Technology of China. 
+- **2022.09 - 2025.06 (now)**, Master, Shenzhen Institute for Advanced Study, University of Electronic Science and Technology of China. 
 - *2018.09 - 2022.06*, Undergraduate, College of Electronic Engineering, South China Agricultural University. 
 
 # 💻 Internships
-- **2024.08 - now**, The Hong Kong University of Science and Technology (Guangzhou), HKUST(GZ), Guangzhou.
-- *2024.01 - 2024.06*, Guangdong Institute of Intelligence Science and Technology (GDIIST), Zhuhai.
+- **2024.08 - now**, Research Assistant, The Hong Kong University of Science and Technology (Guangzhou), HKUST(GZ).
+- *2024.01 - 2024.06*, FPGA Engineer Intern, Guangdong Institute of Intelligence Science and Technology (GDIIST).
 
 # 🏆 Honors and Awards
 - *2022.11*  First Class of Graduate Academic Scholarship in UESTC. 
@@ -57,7 +57,7 @@ My research interest includes FPGA, Hardware Verification, Computer Architecture
 </div>
 </div>
 
-# 🔨 Project 
+# 🚩 Project 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/lb.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
