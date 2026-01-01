@@ -31,13 +31,13 @@ My current research interests focus on electronic design automation (EDA), espec
 
 
 
-# 📝 Publications 
+# Publications 
 - TBD
 <!-- - *Che W*. FPGA-based memory test system design and test algorithm implementation[C]. 2023 3rd International Conference on Electronic Information Engineering and Computer (EIECT). IEEE, 2023: 376-380. -->
 
 
 
-# 🎓 Educations
+# Educations
 <div class="education-list">
   <div class="education-item">
     <div class="education-logo">
@@ -72,7 +72,7 @@ My current research interests focus on electronic design automation (EDA), espec
 
 
 
-# 💻 Internships
+# Internships
 <div class="experience-list">
   <div class="experience-item">
     <div class="experience-logo">
@@ -97,7 +97,7 @@ My current research interests focus on electronic design automation (EDA), espec
 
 
 
-# 🏆 Honors and Awards
+# Honors and Awards
 - *2022.11*  First Class of Graduate Academic Scholarship in UESTC. 
 - *2023.11*  Third Class of Graduate Academic Scholarship in UESTC.
 - *2023.06*  Second Prize in the 6th China Graduate Innovation Chip Competition at the UESTC.
