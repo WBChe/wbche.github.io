@@ -44,8 +44,8 @@ My current research interests focus on electronic design automation (EDA), espec
       <img src="./images/hkust.png" alt="HKUST(GZ) logo">
     </div>
     <div class="education-text">
-      <div class="education-meta">2026.01 - incoming · Ph.D. student in Microelectronics</div>
-      <div class="education-school">The Hong Kong University of Science and Technology (Guangzhou)</div>
+      <div class="education-meta">2026.01 - incoming · The Hong Kong University of Science and Technology (Guangzhou)</div>
+      <div class="education-school">Ph.D. student in Microelectronics</div>
     </div>
   </div>
 
@@ -54,8 +54,8 @@ My current research interests focus on electronic design automation (EDA), espec
       <img src="./images/uestc.webp" alt="UESTC logo">
     </div>
     <div class="education-text">
-      <div class="education-meta">2022.09 - 2025.12 · Master of Science in Engineering in Electronic Information</div>
-      <div class="education-school">University of Electronic Science and Technology of China</div>
+      <div class="education-meta">2022.09 - 2025.12 · University of Electronic Science and Technology of China</div>
+      <div class="education-school">Master of Science in Engineering in Electronic Information</div>
     </div>
   </div>
 
@@ -64,8 +64,8 @@ My current research interests focus on electronic design automation (EDA), espec
       <img src="./images/scau.webp" alt="SCAU logo">
     </div>
     <div class="education-text">
-      <div class="education-meta">2018.09 - 2022.06 · Bachelor of Engineering in Electronic Information Engineering</div>
-      <div class="education-school">South China Agricultural University</div>
+      <div class="education-meta">2018.09 - 2022.06 · South China Agricultural University</div>
+      <div class="education-school">Bachelor of Engineering in Electronic Information Engineering</div>
     </div>
   </div>
 </div>
@@ -79,8 +79,8 @@ My current research interests focus on electronic design automation (EDA), espec
       <img src="./images/hkust.png" alt="HKUST(GZ) logo">
     </div>
     <div class="experience-text">
-      <div class="experience-meta">2025.07 - 2025.12 · Research Assistant</div>
-      <div class="experience-company">The Hong Kong University of Science and Technology (Guangzhou)</div>
+      <div class="experience-meta">2025.07 - 2025.12 · The Hong Kong University of Science and Technology (Guangzhou)</div>
+      <div class="experience-company">Research Assistant</div>
     </div>
   </div>
 
@@ -89,8 +89,8 @@ My current research interests focus on electronic design automation (EDA), espec
       <img src="./images/gdiist.png" alt="GDIIST logo">
     </div>
     <div class="experience-text">
-      <div class="experience-meta">2024.01 - 2024.06 · Intern</div>
-      <div class="experience-company">Guangdong Institute of Intelligence Science and Technology</div>
+      <div class="experience-meta">2024.01 - 2024.06 · Guangdong Institute of Intelligence Science and Technology</div>
+      <div class="experience-company">Intern Engineer</div>
     </div>
   </div>
 </div>
