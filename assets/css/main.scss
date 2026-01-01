@@ -112,8 +112,8 @@ h1:before, .anchor:before {
 .experience-list {
     display: flex;
     flex-direction: column;
-    gap: 1em;
-    margin: 1em 0;
+    gap: 0.5em;
+    margin: 0.5em 0;
 }
 
 .education-item,
@@ -121,7 +121,7 @@ h1:before, .anchor:before {
     display: flex;
     align-items: center;
     gap: 1em;
-    padding: 1em;
+    padding: 0.5em;
     // border: 1px solid #efefef;
     // border-radius: 8px;
     // background: #fafafa;
@@ -144,7 +144,7 @@ h1:before, .anchor:before {
 .education-meta,
 .experience-meta {
     font-weight: 600;
-    color: $info-color;
+    // color: $info-color;
 }
 
 .education-school,
