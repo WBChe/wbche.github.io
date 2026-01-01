@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenbin Che"
-description              : "Student in Key Laboratory of IC Test Technology"
+description              : # " "
 repository               : "WBche/wbche.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenbin Che"
   avatar           : "images/notion-avatar-1655627593971.png"
-  bio              : "master student @UESTC EE"
-  location         : "Shenzhen, China"
+  bio              : "incoming Ph.D. student @HKUST(GZ)"
+  location         : "Guangzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0PbLvCEAAAAJ"
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0009-6153-427X" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
