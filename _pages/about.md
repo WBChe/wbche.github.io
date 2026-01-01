@@ -38,15 +38,62 @@ My current research interests focus on electronic design automation (EDA), espec
 
 
 # 🎓 Educations
-- <img src='./images/hkust.png' style='width: 3em;'> *2026.01 - incoming*, Ph.D. student, The Hong Kong University of Science and Technology (Guangzhou). 
-- <img src='./images/uestc.webp' style='width: 3em;'> *2022.09 - 2025.12*, Master of Science in Engineering, University of Electronic Science and Technology of China. 
-- <img src='./images/scau.webp' style='width: 3em;'> *2018.09 - 2022.06*, Bachelor of Engineering, South China Agricultural University. 
+<div class="education-list">
+  <div class="education-item">
+    <div class="education-logo">
+      <img src="./images/hkust.png" alt="HKUST(GZ) logo">
+    </div>
+    <div class="education-text">
+      <div class="education-meta">2026.01 - incoming · Ph.D. student in Microelectronics</div>
+      <div class="education-school">The Hong Kong University of Science and Technology (Guangzhou)</div>
+    </div>
+  </div>
+
+  <div class="education-item">
+    <div class="education-logo">
+      <img src="./images/uestc.webp" alt="UESTC logo">
+    </div>
+    <div class="education-text">
+      <div class="education-meta">2022.09 - 2025.12 · Master of Science in Engineering in Electronic Information</div>
+      <div class="education-school">University of Electronic Science and Technology of China</div>
+    </div>
+  </div>
+
+  <div class="education-item">
+    <div class="education-logo">
+      <img src="./images/scau.webp" alt="SCAU logo">
+    </div>
+    <div class="education-text">
+      <div class="education-meta">2018.09 - 2022.06 · Bachelor of Engineering in Electronic Information Engineering</div>
+      <div class="education-school">South China Agricultural University</div>
+    </div>
+  </div>
+</div>
 
 
 
 # 💻 Internships
-- <img src='./images/hkust.png' style='width: 3em;'> *2025.07 - 2025.12*, Research Assistant, The Hong Kong University of Science and Technology (Guangzhou).
-- <img src='./images/gdiist.png' style='width: 3em;'> *2024.01 - 2024.06*, Intern, Guangdong Institute of Intelligence Science and Technology.
+<div class="experience-list">
+  <div class="experience-item">
+    <div class="experience-logo">
+      <img src="./images/hkust.png" alt="HKUST(GZ) logo">
+    </div>
+    <div class="experience-text">
+      <div class="experience-meta">2025.07 - 2025.12 · Research Assistant</div>
+      <div class="experience-company">The Hong Kong University of Science and Technology (Guangzhou)</div>
+    </div>
+  </div>
+
+  <div class="experience-item">
+    <div class="experience-logo">
+      <img src="./images/gdiist.png" alt="GDIIST logo">
+    </div>
+    <div class="experience-text">
+      <div class="experience-meta">2024.01 - 2024.06 · Intern</div>
+      <div class="experience-company">Guangdong Institute of Intelligence Science and Technology</div>
+    </div>
+  </div>
+</div>
 
 
 
@@ -55,6 +102,4 @@ My current research interests focus on electronic design automation (EDA), espec
 - *2023.11*  Third Class of Graduate Academic Scholarship in UESTC.
 - *2023.06*  Second Prize in the 6th China Graduate Innovation Chip Competition at the UESTC.
 - *2023.08*  Excellent Award at the 6th China Graduate Innovation Chip Competition National Competition.
-
-
 
