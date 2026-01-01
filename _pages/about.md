@@ -38,37 +38,9 @@ My current research interests focus on electronic design automation (EDA), espec
 
 
 # 🎓 Educations
-<div class="education-list">
-  <div class="education-item">
-    <div class="education-logo">
-      <img src="./images/hkust.png" alt="HKUST(GZ) logo">
-    </div>
-    <div class="education-text">
-      <div class="education-meta">2026.01 - incoming · Ph.D. student</div>
-      <div class="education-school">The Hong Kong University of Science and Technology (Guangzhou)</div>
-    </div>
-  </div>
-
-  <div class="education-item">
-    <div class="education-logo">
-      <img src="./images/uestc.webp" alt="UESTC logo">
-    </div>
-    <div class="education-text">
-      <div class="education-meta">2022.09 - 2025.12 · Master of Science in Engineering</div>
-      <div class="education-school">University of Electronic Science and Technology of China</div>
-    </div>
-  </div>
-
-  <div class="education-item">
-    <div class="education-logo">
-      <img src="./images/scau.webp" alt="SCAU logo">
-    </div>
-    <div class="education-text">
-      <div class="education-meta">2018.09 - 2022.06 · Bachelor of Engineering</div>
-      <div class="education-school">South China Agricultural University</div>
-    </div>
-  </div>
-</div>
+- <img src='./images/hkust.png' style='width: 3em;'> *2026.01 - incoming*, Ph.D. student, The Hong Kong University of Science and Technology (Guangzhou). 
+- <img src='./images/uestc.webp' style='width: 3em;'> *2022.09 - 2025.12*, Master of Science in Engineering, University of Electronic Science and Technology of China. 
+- <img src='./images/scau.webp' style='width: 3em;'> *2018.09 - 2022.06*, Bachelor of Engineering, South China Agricultural University. 
 
 
 
@@ -83,5 +55,6 @@ My current research interests focus on electronic design automation (EDA), espec
 - *2023.11*  Third Class of Graduate Academic Scholarship in UESTC.
 - *2023.06*  Second Prize in the 6th China Graduate Innovation Chip Competition at the UESTC.
 - *2023.08*  Excellent Award at the 6th China Graduate Innovation Chip Competition National Competition.
+
 
 
