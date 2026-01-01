@@ -17,29 +17,46 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 😄 Bio
-I am a M.S.E student in the Shenzhen Institute for Advanced Study at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Xili Han. I received my B.E degree from college of Electronic Engineering, [South China Agricultural University](https://www.scau.edu.cn/). I used to intern at Guangdong Institute of Intelligence Science and Technology, [GDIIST](https://www.gdiist.cn/).
+# About me
+I will begin my Ph.D. studies in Microelectronics at The Hong Kong University of Science and Technology (Guangzhou) ([HKUST(GZ)](https://www.hkust-gz.edu.cn/)) in January 2026, under the supervision of [Prof. Hongce Zhang](https://hongcezh.people.ust.hk/). Prior to this, I received my M.S.E degree from University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)) and my B.E. degree from South China Agricultural University ([SCAU](https://www.scau.edu.cn/)).
 
-My research interest includes Hardware Formal Verification.
+Previously, I interned as a Research Assistant at The Hong Kong University of Science and Technology (Guangzhou) and interned at the Guangdong Institute of Intelligence Science and Technology ([GDIIST](https://www.gdiist.cn/)).
+
+My current research interests focus on electronic design automation (EDA), especially in hardware formal verification and LLM for EDA. Meanwhile, I am also interested in related research topics and welcome discussions and collaborations with researchers from different fields.
+
+
+
+# 🔥 News
+- *2026.01*: &nbsp;🌐 Launched and updated my new academic homepage.
+<!-- - *2024.08*: &nbsp; I joined MICS at the HKUST(GZ) as a research assistant.
+- *2023.11*: &nbsp;🎉 A collaborative work was accepted by EIECT 2023. -->
+
+
+
+# 📝 Publications 
+- TBD
+<!-- - *Che W*. FPGA-based memory test system design and test algorithm implementation[C]. 2023 3rd International Conference on Electronic Information Engineering and Computer (EIECT). IEEE, 2023: 376-380. -->
+
+
 
 # 🎓 Educations
-- <img src='./images/uestc.webp' style='width: 3em;'> **2022.09 - now**, Master, Shenzhen Institute for Advanced Study, University of Electronic Science and Technology of China. 
-- <img src='./images/scau.webp' style='width: 3em;'> *2018.09 - 2022.06*, Undergraduate, College of Electronic Engineering, South China Agricultural University. 
+- <img src='./images/hkust.png' style='width: 3em;'> *2026.01 - incoming*, Ph.D. student, The Hong Kong University of Science and Technology (Guangzhou). 
+- <img src='./images/uestc.webp' style='width: 3em;'> *2022.09 - 2025.12*, Master of Science in Engineering, University of Electronic Science and Technology of China. 
+- <img src='./images/scau.webp' style='width: 3em;'> *2018.09 - 2022.06*, Bachelor of Engineering, South China Agricultural University. 
+
+
 
 # 💻 Internships
-- <img src='./images/hkust.png' style='width: 3em;'> **2024.08 - now**, Research Assistant, The Hong Kong University of Science and Technology (Guangzhou), HKUST(GZ).
-- <img src='./images/gdiist.png' style='width: 3em;'> *2024.01 - 2024.06*, FPGA Engineer Intern, Guangdong Institute of Intelligence Science and Technology (GDIIST).
+- <img src='./images/hkust.png' style='width: 3em;'> *2025.07 - 2025.12*, Research Assistant, The Hong Kong University of Science and Technology (Guangzhou).
+- <img src='./images/gdiist.png' style='width: 3em;'> *2024.01 - 2024.06*, Intern, Guangdong Institute of Intelligence Science and Technology.
+
+
 
 # 🏆 Honors and Awards
 - *2022.11*  First Class of Graduate Academic Scholarship in UESTC. 
 - *2023.11*  Third Class of Graduate Academic Scholarship in UESTC.
-- *2023.08*  Excellent Award at the 6th China Graduate Innovation Chip Competition National Competition.
 - *2023.06*  Second Prize in the 6th China Graduate Innovation Chip Competition at the UESTC.
+- *2023.08*  Excellent Award at the 6th China Graduate Innovation Chip Competition National Competition.
 
-# 🔥 News
-- *2024.08*: &nbsp; I joined MICS at the HKUST(GZ) as a research assistant.
-- *2023.11*: &nbsp;🎉 A collaborative work was accepted by EIECT 2023.
 
-# 📝 Publications 
-- *Che W*. FPGA-based memory test system design and test algorithm implementation[C]//2023 3rd International Conference on Electronic Information Engineering and Computer (EIECT). IEEE, 2023: 376-380.
 
