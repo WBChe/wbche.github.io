@@ -28,8 +28,6 @@ My current research interests focus on electronic design automation (EDA), espec
 
 # 🔥 News
 - *2026.01*: &nbsp;🌐 Launched and updated my new academic homepage.
-<!-- - *2024.08*: &nbsp; I joined MICS at the HKUST(GZ) as a research assistant.
-- *2023.11*: &nbsp;🎉 A collaborative work was accepted by EIECT 2023. -->
 
 
 
