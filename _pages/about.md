@@ -26,16 +26,22 @@ My current research interests focus on electronic design automation (EDA), espec
 
 
 
+<span class='anchor' id='news'></span>
+
 # 🔥 News
 - *2026.01*: &nbsp;🌐 Launched and updated my new academic homepage.
 
 
+
+<span class='anchor' id='publications'></span>
 
 # Publications 
 - TBD
 <!-- - *Che W*. FPGA-based memory test system design and test algorithm implementation[C]. 2023 3rd International Conference on Electronic Information Engineering and Computer (EIECT). IEEE, 2023: 376-380. -->
 
 
+
+<span class='anchor' id='educations'></span>
 
 # Educations
 <div class="education-list">
@@ -72,6 +78,8 @@ My current research interests focus on electronic design automation (EDA), espec
 
 
 
+<span class='anchor' id='internships'></span>
+
 # Internships
 <div class="experience-list">
   <div class="experience-item">
@@ -80,7 +88,7 @@ My current research interests focus on electronic design automation (EDA), espec
     </div>
     <div class="experience-text">
       <div class="experience-meta">2025.07 - 2025.12 · The Hong Kong University of Science and Technology (Guangzhou)</div>
-      <div class="experience-company">Research Assistant</div>
+      <div class="experience-company">Research Assistant, advised by Prof. Hongce Zhang</div>
     </div>
   </div>
 
@@ -90,16 +98,17 @@ My current research interests focus on electronic design automation (EDA), espec
     </div>
     <div class="experience-text">
       <div class="experience-meta">2024.01 - 2024.06 · Guangdong Institute of Intelligence Science and Technology</div>
-      <div class="experience-company">Intern Engineer</div>
+      <div class="experience-company">Intern Engineer, advised by Dr. Ning Ma and Dr. Yuxiang Huan</div>
     </div>
   </div>
 </div>
 
 
 
+<span class='anchor' id='honors-and-awards'></span>
+
 # Honors and Awards
 - *2022.11*  First Class of Graduate Academic Scholarship in UESTC. 
 - *2023.11*  Third Class of Graduate Academic Scholarship in UESTC.
 - *2023.06*  Second Prize in the 6th China Graduate Innovation Chip Competition at the UESTC.
 - *2023.08*  Excellent Award at the 6th China Graduate Innovation Chip Competition National Competition.
-
