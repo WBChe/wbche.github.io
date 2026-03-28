@@ -36,13 +36,13 @@ My current research interests focus on *electronic design automation (EDA)*, esp
 <span class='anchor' id='publications'></span>
 
 # Publications 
-- CondEC: Equivalence Checking under Conditions  
+- [CondEC: Equivalence Checking under Conditions]()  
   **Wenbin Che**, Changyuan Yu, Hongce Zhang  
   International Symposium of Electronics Design Automation (ISEDA), 2026  
-- FRAIG-BMC: Functional Reduction to Speed Up Bounded Model Checking  
+- [FRAIG-BMC: Functional Reduction to Speed Up Bounded Model Checking]()  
   Changyuan Yu, **Wenbin Che**, Hongce Zhang  
   arxiv, 2025  
-- FPGA-based memory test system design and test algorithm implementation  
+- [FPGA-based memory test system design and test algorithm implementation]()  
   **Wenbin Che**  
   International Conference on Electronic Information Engineering and Computer (EIECT), 2023  
 
