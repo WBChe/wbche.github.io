@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-I am a first-year Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou) ([HKUST(GZ)](https://www.hkust-gz.edu.cn/)) in January 2026, advised by [Prof. Hongce Zhang](https://hongcezh.people.ust.hk/). Prior to this, I received my M.S.E degree from University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)) and my B.E. degree from South China Agricultural University ([SCAU](https://www.scau.edu.cn/)).
+I am a first-year Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou) ([HKUST(GZ)](https://www.hkust-gz.edu.cn/)), advised by [Prof. Hongce Zhang](https://hongcezh.people.ust.hk/). Prior to this, I received my M.S.E degree from University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)) and my B.E. degree from South China Agricultural University ([SCAU](https://www.scau.edu.cn/)).
 
 Previously, I interned as a Research Assistant at The Hong Kong University of Science and Technology (Guangzhou) and interned at the Guangdong Institute of Intelligence Science and Technology ([GDIIST](https://www.gdiist.cn/)).
 
