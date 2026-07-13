@@ -36,6 +36,12 @@ My current research interests focus on *electronic design automation (EDA)*, esp
 <span class='anchor' id='publications'></span>
 
 # Publications 
+- [Forbench: Symbolic Simulation Helps Make Your Testbench More Formal]()  
+  Ziyi Yang\*, **Wenbin Che**\*, Ziyue Zheng, Guangyu Hu, Hongce Zhang  
+  International Conference on Computer-Aided Design (ICCAD), 2026  
+- [NeuroAbs: A Neuro-Symbolic RTL Abstraction Framework for Property Checking Acceleration]()  
+  Zhiyuan Yan, Xiaofeng Zhou, Ziyue Zheng, Ziyi Yang, **Wenbin Che**, Wei Zhang, Yangdi Lyu, Hongce Zhang  
+  International Conference on Computer-Aided Design (ICCAD), 2026
 - [CondEC: Equivalence Checking under Conditions]()  
   **Wenbin Che**, Changyuan Yu, Hongce Zhang  
   International Symposium of Electronics Design Automation (ISEDA), 2026  
