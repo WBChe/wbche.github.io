@@ -9,12 +9,15 @@ main:
   - title: "Publications"
     url: "/#publications"
 
-  - title: "Educations"
-    url: "/#educations"
+  - title: "Education"
+    url: "/#education"
 
-  - title: "Internships"
-    url: "/#internships"
+  - title: "Experiences"
+    url: "/#experiences"
 
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
+
+  - title: "Service"
+    url: "/#service"
   

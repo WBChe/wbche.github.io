@@ -36,10 +36,10 @@ My current research interests focus on *electronic design automation (EDA)*, esp
 <span class='anchor' id='publications'></span>
 
 # Publications 
-- [Forbench: Symbolic Simulation Helps Make Your Testbench More Formal]()  
+- [Forbench: Symbolic Simulation Helps Make Your Testbench More Formal](https://arxiv.org/abs/2608.01045)  
   Ziyi Yang\*, **Wenbin Che**\*, Ziyue Zheng, Guangyu Hu, Hongce Zhang  
   International Conference on Computer-Aided Design (ICCAD), 2026  
-- [NeuroAbs: A Neuro-Symbolic RTL Abstraction Framework for Property Checking Acceleration]()  
+- [NeuroAbs: A Neuro-Symbolic RTL Abstraction Framework for Property Checking Acceleration](https://arxiv.org/abs/2608.17304)  
   Zhiyuan Yan, Xiaofeng Zhou, Ziyue Zheng, Ziyi Yang, **Wenbin Che**, Wei Zhang, Yangdi Lyu, Hongce Zhang  
   International Conference on Computer-Aided Design (ICCAD), 2026
 - [CondEC: Equivalence Checking under Conditions]()  
@@ -56,7 +56,7 @@ My current research interests focus on *electronic design automation (EDA)*, esp
 
 <span class='anchor' id='educations'></span>
 
-# Educations
+# Education
 <div class="education-list">
   <div class="education-item">
     <div class="education-logo">
@@ -93,7 +93,7 @@ My current research interests focus on *electronic design automation (EDA)*, esp
 
 <span class='anchor' id='internships'></span>
 
-# Internships
+# Experiences
 <div class="experience-list">
   <div class="experience-item">
     <div class="experience-logo">
@@ -121,7 +121,13 @@ My current research interests focus on *electronic design automation (EDA)*, esp
 <span class='anchor' id='honors-and-awards'></span>
 
 # Honors and Awards
-- *2022.11*  First Class of Graduate Academic Scholarship in UESTC. 
-- *2023.11*  Third Class of Graduate Academic Scholarship in UESTC.
-- *2023.06*  Second Prize in the 6th China Graduate Innovation Chip Competition at the UESTC.
-- *2023.08*  Excellent Award at the 6th China Graduate Innovation Chip Competition National Competition.
+- Full Postgraduate Studentship (PGS) award, HKUST(GZ)
+- First-Class Graduate Academic Scholarship, UESTC
+
+# Service
+Reviewer
+- International Conference on Computer Design
+- International Symposium of EDA
+
+Teaching Assistant
+- MICS2070 Introduction to Computer Organization and Design
