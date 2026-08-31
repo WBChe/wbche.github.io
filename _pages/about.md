@@ -130,4 +130,4 @@ Reviewer
 - International Symposium of EDA
 
 Teaching Assistant
-- MICS2070 Introduction to Computer Organization and Design
+- DSAA6000V - Modern Neural Networks
