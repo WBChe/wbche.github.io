@@ -153,3 +153,51 @@ h1:before, .anchor:before {
     font-size: 1em;
     color: $text-color;
 }
+
+/* Single-column layout; retain the original theme and author profile. */
+#main {
+    display: flex;
+    flex-direction: column;
+    max-width: 960px;
+
+    > .sidebar,
+    > .page {
+        float: none;
+        width: 100%;
+        margin-right: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    > .sidebar.sticky {
+        position: static;
+    }
+
+    @include breakpoint($large) {
+        .profile_box {
+            display: grid;
+            grid-template-columns: 175px minmax(0, 1fr);
+            column-gap: 1.5em;
+            align-items: start;
+        }
+
+        .profile_box > .author__avatar {
+            grid-row: 1 / 3;
+        }
+
+        .author__urls-wrapper {
+            grid-column: 2;
+            margin-left: 0;
+        }
+
+        .author__urls {
+            display: flex !important;
+            flex-wrap: wrap;
+            gap: 0 1em;
+
+            .author__location {
+                flex-basis: 100%;
+            }
+        }
+    }
+}

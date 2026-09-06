@@ -22,7 +22,7 @@ I am a first-year Ph.D. student at The Hong Kong University of Science and Techn
 
 Previously, I interned as a Research Assistant at The Hong Kong University of Science and Technology (Guangzhou) and interned at the Guangdong Institute of Intelligence Science and Technology ([GDIIST](https://www.gdiist.cn/)).
 
-My current research interests focus on *electronic design automation (EDA)*, especially in *hardware formal verification* and *LLM for EDA*. Meanwhile, I am also interested in related research topics and welcome discussions and collaborations with researchers from different fields.
+My current research interests focus on *<span style="color:#C75C5C"><b>electronic design automation (EDA)</b></span>*, especially in *<span style="color:#C75C5C"><b>hardware formal verification</b></span>* and *<span style="color:#C75C5C"><b>LLM for EDA</b></span>*. Meanwhile, I am also interested in related research topics and welcome discussions and collaborations with researchers from different fields.
 
 
 
