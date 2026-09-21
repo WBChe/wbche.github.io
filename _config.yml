@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Wenbin Che"
-  avatar           : "images/person_gemini.png"
+  avatar           : "images/person.png"
   bio              : "Ph.D. student @HKUST(GZ)"
   location         : "Guangzhou, China"
   employer         :
