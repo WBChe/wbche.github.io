@@ -29,8 +29,8 @@ My current research interests focus on *<span style="color:#C75C5C"><b>electroni
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2026.07*: &nbsp; Our paper "NeuroAbs" received the 🏆 Best Paper Award at ICCAD 2026!
-- *2026.05*: &nbsp;🎉 Two papers are accepted to ICCAD 2026.
+- *2026.11*: &nbsp; Our paper "NeuroAbs" received the 🏆 Best Paper Award at ICCAD 2026!
+- *2026.07*: &nbsp;🎉 Two papers are accepted to ICCAD 2026.
 - *2026.03*: &nbsp;🎉 One paper is accepted to ISEDA 2026.
 - *2026.01*: &nbsp;🌐 Launched and updated my new academic homepage.
 
