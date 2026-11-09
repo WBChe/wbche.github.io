@@ -29,6 +29,9 @@ My current research interests focus on *<span style="color:#C75C5C"><b>electroni
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2026.07*: &nbsp; Our paper "NeuroAbs" received the 🏆 Best Paper Award at ICCAD 2026!
+- *2026.05*: &nbsp;🎉 Two papers are accepted to ICCAD 2026.
+- *2026.03*: &nbsp;🎉 One paper is accepted to ISEDA 2026.
 - *2026.01*: &nbsp;🌐 Launched and updated my new academic homepage.
 
 
@@ -39,12 +42,12 @@ My current research interests focus on *<span style="color:#C75C5C"><b>electroni
 - [Forbench: Symbolic Simulation Helps Make Your Testbench More Formal](https://arxiv.org/abs/2608.01045)  
   Ziyi Yang\*, **Wenbin Che**\*, Ziyue Zheng, Guangyu Hu, Hongce Zhang  
   International Conference on Computer-Aided Design (ICCAD), 2026  
-- [NeuroAbs: A Neuro-Symbolic RTL Abstraction Framework for Property Checking Acceleration](https://arxiv.org/abs/2608.17304)  
+- [NeuroAbs: A Neuro-Symbolic RTL Abstraction Framework for Property Checking Acceleration](https://arxiv.org/abs/2608.17304) &nbsp;<strong style="color:#C75C5C">Best Paper Award</strong>  
   Zhiyuan Yan, Xiaofeng Zhou, Ziyue Zheng, Ziyi Yang, **Wenbin Che**, Wei Zhang, Yangdi Lyu, Hongce Zhang  
-  International Conference on Computer-Aided Design (ICCAD), 2026
-- [CondEC: Equivalence Checking under Conditions]()  
+  International Conference on Computer-Aided Design (ICCAD), 2026  
+- [CondEC: Equivalence Checking under Conditions](https://ieeexplore.ieee.org/document/11751430)  
   **Wenbin Che**, Changyuan Yu, Hongce Zhang  
-  International Symposium of Electronics Design Automation (ISEDA), 2026  
+  International Symposium of Electronics Design Automation (ISEDA), San Jose, 2026  
 - [FRAIG-BMC: Functional Reduction to Speed Up Bounded Model Checking]()  
   Changyuan Yu, **Wenbin Che**, Hongce Zhang  
   arxiv, 2025  
@@ -121,13 +124,17 @@ My current research interests focus on *<span style="color:#C75C5C"><b>electroni
 <span class='anchor' id='honors-and-awards'></span>
 
 # Honors and Awards
+- IEEE/ACM ICCAD 2026 Best Paper Award
 - Full Postgraduate Studentship (PGS) award, HKUST(GZ)
 - First-Class Graduate Academic Scholarship, UESTC
 
 # Service
+Artifact Evaluation Committee
+- International Conference on Tools and Algorithms for the Construction and Analysis of Systems (ETAPS-TACAS) 2026
+
 Reviewer
-- International Conference on Computer Design
-- International Symposium of EDA
+- International Conference on Computer Design (ICCD) 2026
+- International Symposium of EDA (ISEDA) 2026
 
 Teaching Assistant
-- DSAA6000V - Modern Neural Networks
+- DSAA6000V - Modern Neural Networks (Instructor: Prof. Zeke Xie)
