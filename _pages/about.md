@@ -47,7 +47,7 @@ My current research interests focus on *<span style="color:#C75C5C"><b>electroni
   International Conference on Computer-Aided Design (ICCAD), 2026  
 - [CondEC: Equivalence Checking under Conditions](https://ieeexplore.ieee.org/document/11751430)  
   **Wenbin Che**, Changyuan Yu, Hongce Zhang  
-  International Symposium of Electronics Design Automation (ISEDA), San Jose, 2026  
+  International Symposium of Electronics Design Automation (ISEDA), 2026  
 - [FRAIG-BMC: Functional Reduction to Speed Up Bounded Model Checking]()  
   Changyuan Yu, **Wenbin Che**, Hongce Zhang  
   arxiv, 2025  
